@@ -4,7 +4,7 @@ backports.entry-points-selectable==1.1.0
 cffi==1.14.6
 cryptography==35.0.0
 distlib==0.3.3
-filelock==3.3.0
+filelock==3.20.1
 importlib-metadata==4.8.1
 Jinja2==3.0.2
 MarkupSafe==2.0.1
